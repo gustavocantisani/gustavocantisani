@@ -6,13 +6,13 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-:books: I’m currently learning Python and Dart.
+:books: I’m currently learning Java and Python.
 
-:outbox_tray: 2021 Goals: focus on learning more about mobile development and creating projects using Flutter.
+:outbox_tray: 2022 Goals: focus on learning more about back-end and mobile development and creating projects using Java.
 
  
 
